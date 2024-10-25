@@ -31,11 +31,9 @@ Clone the repository and open index.html in your preferred browser to view the l
 bash
 
 Copy
-git clone https://github.com/your-username/adidas-ultraboost-light-landing-page.git
+git clone (https://github.com/Rawatabhi7/Adidas-Product-landing-page.git)
 cd adidas-ultraboost-light-landing-page
 open index.html
-Customization
-Easily customize the page by editing the data.js file and updating the product details, images, and color options to fit different product lines.
 
 <h1> Screenshots </h1>
 
