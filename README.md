@@ -36,3 +36,13 @@ cd adidas-ultraboost-light-landing-page
 open index.html
 Customization
 Easily customize the page by editing the data.js file and updating the product details, images, and color options to fit different product lines.
+
+<h1> Screenshots </h1>
+
+![Screenshot_1](https://github.com/user-attachments/assets/49da7594-4af2-4f65-85ab-271d275ba024)
+![Screenshot_2](https://github.com/user-attachments/assets/4af05ef7-bdae-4b58-ac87-b1ae9af16016)
+![Screenshot_3](https://github.com/user-attachments/assets/fecdce6c-6206-481d-bcbf-f492b4c0afa3)
+![Screenshot_4](https://github.com/user-attachments/assets/d68ba901-3114-444e-8fd4-ba66b91dd883)
+
+
+
